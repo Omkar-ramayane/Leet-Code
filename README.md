@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -13,5 +14,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
