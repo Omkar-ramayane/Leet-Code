@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0575-distribute-candies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0575-distribute-candies) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
