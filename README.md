@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0575-distribute-candies) |
 ## String
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0038-count-and-say) |
+| [0205-isomorphic-strings](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0205-isomorphic-strings) |
 ## Union-Find
 |  |
 | ------- |
