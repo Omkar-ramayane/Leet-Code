@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0027-remove-element) |
+| [0128-longest-consecutive-sequence](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0189-rotate-array) |
 | [0575-distribute-candies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0575-distribute-candies) |
 ## Math
@@ -20,9 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0575-distribute-candies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0575-distribute-candies) |
 ## String
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0038-count-and-say) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
