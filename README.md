@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0027-remove-element) |
 | [0128-longest-consecutive-sequence](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0575-distribute-candies) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0575-distribute-candies) |
 ## String
 |  |
@@ -31,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
