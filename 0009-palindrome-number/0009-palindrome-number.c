@@ -1,19 +1,21 @@
 bool isPalindrome(int x) {
+    int y=x;
+    long long rev=0;
     if(x<0)
     {
         return false;
     }
-    long res=0;
-    long b=x;
-    while(b>0)
+    while(x!=0)
     {
-        int a=b%10;
-        res=res*10+a;
-        b=b/10;
+        int a=x%10;
+        rev=rev*10+a;
+        x=x/10;
+
     }
-    if(res==x)
+    if(rev==y)
     {
         return true;
     }
     return false;
+   
 }
