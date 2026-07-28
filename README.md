@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2270-number-of-ways-to-split-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2270-number-of-ways-to-split-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
 ## Number Theory
 |  |
 | ------- |
