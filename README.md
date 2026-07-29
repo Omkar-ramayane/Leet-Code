@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0189-rotate-array) |
+| [0844-backspace-string-compare](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0844-backspace-string-compare) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0205-isomorphic-strings) |
+| [0844-backspace-string-compare](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0844-backspace-string-compare) |
 ## Union-Find
 |  |
 | ------- |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
