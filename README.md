@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0767-reorganize-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0844-backspace-string-compare) |
 ## Union-Find
 |  |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2614-prime-in-diagonal) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
