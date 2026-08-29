@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0287-find-the-duplicate-number) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0050-powx-n) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
