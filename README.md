@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0027-remove-element) |
 | [0128-longest-consecutive-sequence](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0238-product-of-array-except-self) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0645-set-mismatch) |
