@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0877-stone-game) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2614-prime-in-diagonal) |
 ## String Matching
 |  |
