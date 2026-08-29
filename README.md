@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0027-remove-element) |
 | [0128-longest-consecutive-sequence](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0287-find-the-duplicate-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2270-number-of-ways-to-split-array) |
