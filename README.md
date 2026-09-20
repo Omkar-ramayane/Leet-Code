@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1768-merge-strings-alternately) |
+| [3498-reverse-degree-of-a-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0844-backspace-string-compare) |
+| [3498-reverse-degree-of-a-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
