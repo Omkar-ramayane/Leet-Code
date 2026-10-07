@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0575-distribute-candies) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0767-reorganize-string) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0169-majority-element) |
 | [0767-reorganize-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0767-reorganize-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Matrix
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -312,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0164-maximum-gap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
