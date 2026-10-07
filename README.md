@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [0575-distribute-candies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0767-reorganize-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [0504-base-7](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0767-reorganize-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0767-reorganize-string) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0299-bulls-and-cows) |
 | [0767-reorganize-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0767-reorganize-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Matrix
