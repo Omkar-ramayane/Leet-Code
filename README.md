@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0136-single-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2614-prime-in-diagonal) |
 ## String Matching
