@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0136-single-number) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |
