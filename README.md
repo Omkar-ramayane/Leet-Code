@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0389-find-the-difference) |
 | [0504-base-7](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0767-reorganize-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0796-rotate-string) |
