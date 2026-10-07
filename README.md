@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0877-stone-game) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0645-set-mismatch) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0231-power-of-two) |
 ## Newton's Method
 |  |
 | ------- |
