@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0724-find-pivot-index) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
