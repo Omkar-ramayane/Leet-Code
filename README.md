@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0504-base-7](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0657-robot-return-to-origin) |
