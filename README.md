@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0287-find-the-duplicate-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2614-prime-in-diagonal) |
 ## String Matching
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 ## Trie
 |  |
 | ------- |
