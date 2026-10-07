@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0724-find-pivot-index) |
