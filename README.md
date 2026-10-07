@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0724-find-pivot-index) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
