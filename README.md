@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0326-power-of-three) |
 | [0504-base-7](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0326-power-of-three) |
 ## Newton's Method
 |  |
 | ------- |
