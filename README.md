@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0877-stone-game) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
