@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0136-single-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0189-rotate-array) |
