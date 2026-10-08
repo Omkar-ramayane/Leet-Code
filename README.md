@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2270-number-of-ways-to-split-array) |
