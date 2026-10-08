@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1539-kth-missing-positive-number) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2614-prime-in-diagonal) |
 ## String Matching
 |  |
