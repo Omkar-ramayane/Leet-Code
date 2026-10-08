@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2235-add-two-integers) |
+| [2427-number-of-common-factors](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2614-prime-in-diagonal) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2614-prime-in-diagonal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Pigeonhole Principle
 |  |
@@ -434,4 +437,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
