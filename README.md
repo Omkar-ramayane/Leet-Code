@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2614-prime-in-diagonal) |
 | [2784-check-if-array-is-good](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2784-check-if-array-is-good) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1748-sum-of-unique-elements) |
 | [2784-check-if-array-is-good](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2784-check-if-array-is-good) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3731-find-missing-elements) |
