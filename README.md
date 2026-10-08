@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0767-reorganize-string) |
+| [1833-maximum-ice-cream-bars](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
 |  |
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0292-nim-game) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
