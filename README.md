@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2235-add-two-integers) |
 | [2614-prime-in-diagonal](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2614-prime-in-diagonal) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
