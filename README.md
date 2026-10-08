@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1991-find-the-middle-index-in-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0767-reorganize-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1748-sum-of-unique-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3731-find-missing-elements) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0767-reorganize-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1748-sum-of-unique-elements) |
 ## Matrix
 |  |
 | ------- |
