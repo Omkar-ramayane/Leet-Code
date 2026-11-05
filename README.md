@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1480-running-sum-of-1d-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
