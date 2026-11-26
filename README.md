@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/Omkar-ramayane/Leet-Code/tree/master/2614-prime-in-diagonal) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Omkar-ramayane/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Omkar-ramayane/Leet-Code/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Omkar-ramayane/Leet-Code/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
